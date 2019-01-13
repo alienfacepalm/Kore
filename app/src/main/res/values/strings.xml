@@ -16,11 +16,11 @@
 -->
 <resources>
 
-    <string name="app_name">Kore</string>
+    <string name="app_name">Cavo Media Controller</string>
     <string name="settings">Settings</string>
     <string name="action_options">Options</string>
 
-    <string name="loading">Loading…</string>
+    <string name="loading">Loading and shit…</string>
 
     <!-- Navigation drawer tips -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -190,7 +190,7 @@
     <string name="xbmc_available">Available</string>
     <string name="xbmc_unavailable">Unavailable</string>
 
-    <string name="nothing_playing">Nothing playing</string>
+    <string name="nothing_playing">Ain\'t shit playing</string>
 
     <!-- Main view tabs -->
     <string name="now_playing">Now playing</string>

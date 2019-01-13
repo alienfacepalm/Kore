@@ -135,7 +135,7 @@
     </style>
 
     <style name="ButtonBar">
-        <item name="android:background">?attr/buttonBarBackgroundColor</item>
+        <item name="android:background">@android:color/black</item>
     </style>
 
     <style name="ButtonBar.Bottom">
